@@ -1,0 +1,172 @@
+EPOCH 1/5
+==============================================
+Train
+Batch-100  | F1-Score: 0.750000 | Loss: -0.651663
+Batch-200  | F1-Score: 0.843750 | Loss: -0.775004
+Batch-300  | F1-Score: 0.843750 | Loss: -0.750090
+Batch-400  | F1-Score: 0.781250 | Loss: -0.782603
+Batch-500  | F1-Score: 0.812500 | Loss: -0.825514
+Batch-600  | F1-Score: 0.906250 | Loss: -0.856634
+Batch-700  | F1-Score: 0.843750 | Loss: -0.784185
+Batch-800  | F1-Score: 0.750000 | Loss: -0.732830
+Batch-900  | F1-Score: 0.750000 | Loss: -0.746835
+Batch-1000 | F1-Score: 0.812500 | Loss: -0.808451
+Batch-1100 | F1-Score: 0.937500 | Loss: -0.902477
+Batch-1200 | F1-Score: 0.718750 | Loss: -0.728080
+Batch-1300 | F1-Score: 0.812500 | Loss: -0.802304
+Batch-1400 | F1-Score: 0.875000 | Loss: -0.876217
+Batch-1500 | F1-Score: 0.812500 | Loss: -0.791227
+Batch-1600 | F1-Score: 0.906250 | Loss: -0.878115
+Batch-1700 | F1-Score: 0.875000 | Loss: -0.879926
+Batch-1800 | F1-Score: 0.812500 | Loss: -0.814272
+Accuracy : 0.7914166450500488
+Loss     : -0.7605975553154946
+
+Test
+Batch-100  | F1-Score: 0.781250 | Loss: -0.757874
+Batch-200  | F1-Score: 0.781250 | Loss: -0.809468
+Batch-300  | F1-Score: 0.718750 | Loss: -0.698624
+Accuracy : 0.8330999612808228
+Loss     : -0.8222362701885235
+
+==============================================
+
+EPOCH 2/5
+==============================================
+Train
+Batch-100  | F1-Score: 0.625000 | Loss: -0.637649
+Batch-200  | F1-Score: 0.906250 | Loss: -0.892485
+Batch-300  | F1-Score: 0.781250 | Loss: -0.786591
+Batch-400  | F1-Score: 0.875000 | Loss: -0.864793
+Batch-500  | F1-Score: 0.875000 | Loss: -0.862519
+Batch-600  | F1-Score: 0.906250 | Loss: -0.901565
+Batch-700  | F1-Score: 0.906250 | Loss: -0.903959
+Batch-800  | F1-Score: 0.781250 | Loss: -0.765935
+Batch-900  | F1-Score: 1.000000 | Loss: -0.966087
+Batch-1000 | F1-Score: 0.843750 | Loss: -0.817297
+Batch-1100 | F1-Score: 0.718750 | Loss: -0.718556
+Batch-1200 | F1-Score: 0.843750 | Loss: -0.830983
+Batch-1300 | F1-Score: 0.812500 | Loss: -0.791653
+Batch-1400 | F1-Score: 0.812500 | Loss: -0.818761
+Batch-1500 | F1-Score: 0.906250 | Loss: -0.904224
+Batch-1600 | F1-Score: 0.875000 | Loss: -0.870626
+Batch-1700 | F1-Score: 0.968750 | Loss: -0.954098
+Batch-1800 | F1-Score: 0.875000 | Loss: -0.877353
+Accuracy : 0.8353166580200195
+Loss     : -0.8264760984738668
+
+Test
+Batch-100  | F1-Score: 0.750000 | Loss: -0.754007
+Batch-200  | F1-Score: 0.843750 | Loss: -0.842788
+Batch-300  | F1-Score: 0.843750 | Loss: -0.827471
+Accuracy : 0.8413000106811523
+Loss     : -0.8341637514650632
+
+==============================================
+
+EPOCH 3/5
+==============================================
+Train
+Batch-100  | F1-Score: 0.875000 | Loss: -0.876016
+Batch-200  | F1-Score: 0.781250 | Loss: -0.777783
+Batch-300  | F1-Score: 0.781250 | Loss: -0.772067
+Batch-400  | F1-Score: 0.812500 | Loss: -0.806729
+Batch-500  | F1-Score: 0.906250 | Loss: -0.904210
+Batch-600  | F1-Score: 0.937500 | Loss: -0.928880
+Batch-700  | F1-Score: 0.781250 | Loss: -0.775110
+Batch-800  | F1-Score: 0.812500 | Loss: -0.801020
+Batch-900  | F1-Score: 0.812500 | Loss: -0.824873
+Batch-1000 | F1-Score: 0.875000 | Loss: -0.849054
+Batch-1100 | F1-Score: 0.812500 | Loss: -0.801310
+Batch-1200 | F1-Score: 0.875000 | Loss: -0.869853
+Batch-1300 | F1-Score: 0.812500 | Loss: -0.807110
+Batch-1400 | F1-Score: 0.875000 | Loss: -0.887308
+Batch-1500 | F1-Score: 0.937500 | Loss: -0.927241
+Batch-1600 | F1-Score: 0.781250 | Loss: -0.787534
+Batch-1700 | F1-Score: 0.750000 | Loss: -0.731116
+Batch-1800 | F1-Score: 0.875000 | Loss: -0.877533
+Accuracy : 0.8468999266624451
+Loss     : -0.8408624198913575
+
+Test
+Batch-100  | F1-Score: 0.718750 | Loss: -0.718575
+Batch-200  | F1-Score: 0.875000 | Loss: -0.869537
+Batch-300  | F1-Score: 0.781250 | Loss: -0.804631
+Accuracy : 0.8526999950408936
+Loss     : -0.847691760086023
+
+==============================================
+
+EPOCH 4/5
+==============================================
+Train
+Batch-100  | F1-Score: 0.906250 | Loss: -0.888765
+Batch-200  | F1-Score: 0.812500 | Loss: -0.809933
+Batch-300  | F1-Score: 0.812500 | Loss: -0.823074
+Batch-400  | F1-Score: 0.906250 | Loss: -0.890087
+Batch-500  | F1-Score: 0.843750 | Loss: -0.850217
+Batch-600  | F1-Score: 0.812500 | Loss: -0.812649
+Batch-700  | F1-Score: 0.968750 | Loss: -0.958607
+Batch-800  | F1-Score: 0.687500 | Loss: -0.686642
+Batch-900  | F1-Score: 0.906250 | Loss: -0.901206
+Batch-1000 | F1-Score: 0.843750 | Loss: -0.842713
+Batch-1100 | F1-Score: 0.843750 | Loss: -0.834857
+Batch-1200 | F1-Score: 0.812500 | Loss: -0.807813
+Batch-1300 | F1-Score: 0.875000 | Loss: -0.882312
+Batch-1400 | F1-Score: 0.875000 | Loss: -0.875320
+Batch-1500 | F1-Score: 0.750000 | Loss: -0.747114
+Batch-1600 | F1-Score: 0.843750 | Loss: -0.838899
+Batch-1700 | F1-Score: 0.843750 | Loss: -0.842717
+Batch-1800 | F1-Score: 0.656250 | Loss: -0.662877
+Accuracy : 0.8542666435241699
+Loss     : -0.8489641800880432
+
+Test
+Batch-100  | F1-Score: 0.718750 | Loss: -0.708354
+Batch-200  | F1-Score: 0.843750 | Loss: -0.844736
+Batch-300  | F1-Score: 0.781250 | Loss: -0.787234
+Accuracy : 0.8561999797821045
+Loss     : -0.8524736457358534
+
+==============================================
+
+EPOCH 5/5
+==============================================
+Train
+Batch-100  | F1-Score: 0.875000 | Loss: -0.868467
+Batch-200  | F1-Score: 0.906250 | Loss: -0.885986
+Batch-300  | F1-Score: 0.843750 | Loss: -0.825810
+Batch-400  | F1-Score: 0.906250 | Loss: -0.884978
+Batch-500  | F1-Score: 0.968750 | Loss: -0.965978
+Batch-600  | F1-Score: 0.781250 | Loss: -0.778342
+Batch-700  | F1-Score: 0.875000 | Loss: -0.848183
+Batch-800  | F1-Score: 0.875000 | Loss: -0.864009
+Batch-900  | F1-Score: 0.937500 | Loss: -0.934196
+Batch-1000 | F1-Score: 0.843750 | Loss: -0.846620
+Batch-1100 | F1-Score: 0.906250 | Loss: -0.900011
+Batch-1200 | F1-Score: 0.718750 | Loss: -0.719499
+Batch-1300 | F1-Score: 0.843750 | Loss: -0.842241
+Batch-1400 | F1-Score: 0.906250 | Loss: -0.888977
+Batch-1500 | F1-Score: 0.843750 | Loss: -0.842273
+Batch-1600 | F1-Score: 0.750000 | Loss: -0.757409
+Batch-1700 | F1-Score: 0.906250 | Loss: -0.891783
+Batch-1800 | F1-Score: 0.906250 | Loss: -0.902285
+Accuracy : 0.8599333167076111
+Loss     : -0.8556171224594116
+
+Test
+Batch-100  | F1-Score: 0.968750 | Loss: -0.963394
+Batch-200  | F1-Score: 0.718750 | Loss: -0.703504
+Batch-300  | F1-Score: 0.875000 | Loss: -0.860065
+Accuracy : 0.8610000014305115
+Loss     : -0.8582019404100534
+
+==============================================
+
+SUMMARY:
+Train Accuracy : 0.8375666737556458
+Train Loss     : -0.8265034752456348
+
+Test Accuracy  : 0.848859965801239
+Test Loss      : -0.8429534735771034
+Training time: 4.220 minutes
